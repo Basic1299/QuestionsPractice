@@ -5,18 +5,18 @@ example how must look the provided txt file:
 
 MyFile.txt:
 ========================================================
-Který svátek slaví Češi i lidé po celém světě 8. března?\n
-1.Den matek\n
-2.Den učitelů\n
-3.Mezinárodní den žen*\n
-4.Mezinárodní den dětí\n
+Který svátek slaví Češi i lidé po celém světě 8. března?
+1.Den matek
+2.Den učitelů
+3.Mezinárodní den žen*
+4.Mezinárodní den dětí
 +\n
-Kterou přílohu tradičně jedí Češi ke smaženému kaprovi v mnoha domácnostech na Štědrý večer?\n
-1.Rýži\n
-2.Těstoviny\n
-3.Bramborový salát*\n
-4.Houskové knedlíky\n
-+\n
+Kterou přílohu tradičně jedí Češi ke smaženému kaprovi v mnoha domácnostech na Štědrý večer?
+1.Rýži
+2.Těstoviny
+3.Bramborový salát*
+4.Houskové knedlíky
++
 
 ========================================================
 
@@ -29,6 +29,7 @@ Instructions for provided txt file:
 
 All of these steps must be obeyed for correct execution of the Main.py
 
-*** LOOK AT EXAMPLE ABOVE TO BETTER UNDERSTAND THE INSTRUCTIONS. **
+*** LOOK AT BELOW TXT FILE TO FULLY UNDERSTAND THE INSTRUCTIONS. **
 
+[Questions.txt](https://github.com/Basic1299/QuestionsPractice/files/10776885/Questions.txt)
 
